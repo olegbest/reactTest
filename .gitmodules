@@ -1,0 +1,6 @@
+[submodule "reactTestFrontend.git"]
+	path = reactTestFrontend
+	url = https://github.com/olegbest/reactTestFrontend.git
+[submodule "reactTestBackend.git"]
+	path = reactTestBackend
+	url = https://github.com/olegbest/reactTestBackend.git
